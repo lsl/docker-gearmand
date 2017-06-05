@@ -1,2 +1,5 @@
-# docker-gearmand
-alpine + gearmand server  
+# Docker / Alpine / Gearmand
+
+docker pull lslio/gearmand
+
+http://gearman.org/
